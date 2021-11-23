@@ -44,11 +44,13 @@
                 /* Group 2 */
 
 .group2{
-    height: 700px;
+    background-color: rgb(245, 237, 223);
+    height: 550px;
     width: 100%;
     color: rgb(246, 75, 60);
 }
 #row1group2{
+    text-align: center;
     margin-top: 50px;
 }
 #row1group2img img{
@@ -60,9 +62,10 @@
 
 #row2group2txt{
     
-    /* font: size 1.1rem; */
     text-align:center;
     padding-top: 20px;
+    padding-left: 60px;
+    padding-right: 60px;
 }
 #row2group2bur img{
     height: 130px;
@@ -91,10 +94,15 @@
 #row3group2cen span{
     text-align: center;
 }
-#row3group2mus img{
+#row3group2chi img{
     position: relative;
     top: 100px;
     height: 70px;
     width: 70px;
+}
+#row4group2mus img{
+    transform: rotate(80deg);
+    height: 50px;
+    width:50px;
 }
 
