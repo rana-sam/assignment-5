@@ -106,3 +106,39 @@
     width:50px;
 }
 
+                                    /* group 3 */
+
+.group3{
+    height: 600px;
+    width: 100%;
+    background-color: rgb(246, 75, 60);
+    color: white;
+}
+#row1group3 img{
+        height: 380px;
+        width: 380px;
+        border-radius: 50%;
+        position: relative;
+        top: 110px;
+        left: 140px;
+    }
+    
+    #row1group3h1{
+        padding-top: 180px;
+        padding-left: 80px;
+    }
+    #row1group3h1 h1{
+    font-size: 3rem;
+    font-weight: bold;
+    padding-bottom: 20px;
+   }
+   #row1group3h1 button{
+    margin-top: 30px;
+    border-radius: 20px;
+    border-style: none;
+    background-color: white;
+    color: rgb(246, 75, 60);
+    font-weight:bold;
+    height: 35px;
+    width: 190px;
+   }
