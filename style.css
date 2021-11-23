@@ -1,0 +1,49 @@
+.group1{
+    background-image: url("./Images\ and\ icon/background (1).png");
+    height: 700px;
+    width: 100%;
+    color: white;
+}
+#group1header{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+}
+#group1header a{
+    font-size: large;
+    color: white;
+}
+.col-3 img{
+    height: 70px;
+    width: 70px;
+    color: white;
+    margin-top: 20px;
+}
+#row2group1 h1{
+    margin-top: 100px;
+    font-size: 5rem;
+}
+#row3group1 {
+    margin-top: 30px;
+}
+#row4group1{
+    padding-top: 30px;
+}
+#row4group1 button{
+
+    border-radius: 20px;
+    border-style: none;
+    background-color: rgb(246, 75, 60);
+    color: white;
+    font-weight:500;
+    height: 40px;
+    width: 190px;
+}
+
+
+                /* Group 2 */
+
+/* .group2{
+    height: 700px;
+    width: 100%;
+} */
