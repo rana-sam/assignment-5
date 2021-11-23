@@ -43,7 +43,58 @@
 
                 /* Group 2 */
 
-/* .group2{
+.group2{
     height: 700px;
     width: 100%;
-} */
+    color: rgb(246, 75, 60);
+}
+#row1group2{
+    margin-top: 50px;
+}
+#row1group2img img{
+    height: 70px;
+    width: 70px;
+    position: relative;
+    top: 90px;
+}
+
+#row2group2txt{
+    
+    /* font: size 1.1rem; */
+    text-align:center;
+    padding-top: 20px;
+}
+#row2group2bur img{
+    height: 130px;
+    width: 130px;
+    position: relative;
+
+    left: 10px;
+}
+#row2group2bur{
+    transform: rotate(45deg);
+}
+#row3group2fri img{
+    height: 110px;
+    width: 110px;
+}
+#row3group2cen img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    border: none;
+}
+#row3group2cen{
+    display: flex;
+    justify-content: space-between;
+}
+#row3group2cen span{
+    text-align: center;
+}
+#row3group2mus img{
+    position: relative;
+    top: 100px;
+    height: 70px;
+    width: 70px;
+}
+
