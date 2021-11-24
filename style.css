@@ -142,3 +142,70 @@
     height: 35px;
     width: 190px;
    }
+
+
+                                    /* Group 4 */
+
+.group4{
+    height: 700px;
+    width: 100%;
+    background-color: rgb(245, 237, 223);
+    color: rgb(246, 75, 60);
+}
+
+ #group4row1 img{
+ align-items: center;
+ justify-content: center;
+    height: 100px;
+    width: 100px;
+}
+#group4row1chi img  {
+    height: 70px;
+    width: 70px;
+    position: relative;
+    top: 150px;
+    transform: rotate(55deg);
+}
+#group4row1bur img{
+    height: 130px;
+    width: 130px;
+    position: relative;
+    top: 30px;
+    left: 70px;
+}
+#group4row1lea img{
+    height: 60px;
+    width: 60px;
+    float: right;
+    position: relative;
+    top: 130px;
+    right: 50px;
+}
+#row1group4 img{
+    height: 350px;
+    width: 350px;
+    border-radius: 50%;
+    position: relative;
+    top: 80px;
+    left: 60px;
+}
+
+#row1group4h1{
+    padding-top: 110px;
+    padding-left: 80px;
+}
+#row1group4h1 h1{
+font-size: 3rem;
+font-weight: bold;
+padding-bottom: 20px;
+}
+#row1group4h1 button{
+margin-top: 30px;
+border-radius: 20px;
+border-style: none;
+background-color: rgb(246, 75, 60);
+color: white;
+font-weight:bold;
+height: 35px;
+width: 190px;
+}
